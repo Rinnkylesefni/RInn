@@ -1,4 +1,4 @@
-x = "hello world"
+x = "hello"
 y = 123
 z = 3.14
 
